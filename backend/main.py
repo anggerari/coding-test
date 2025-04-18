@@ -7,7 +7,7 @@ import os
 from typing import Any, Dict, Optional
 
 app = FastAPI(
-    title="InterOpera API coding-test",
+    title="Salesperson Dashborad API [coding-test]",
     description="This is an API for testing dummy data and AI placeholder logic.",
     version="1.0.0",
 )
